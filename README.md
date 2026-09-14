@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tejprakash%20Mirashi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Rise%20above%20the%20rest%20and%20go%20beyoud%20your%20limits." alt="Typing introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Tejprakash%20Mirashi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20AI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Tejprakash25">
@@ -10,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m a software engineer passionate about building intelligent systems that solve meaningful problems. My work spans backend engineering, distributed systems, and artificial intelligence, with a focus on turning complex ideas into reliable, practical software. I enjoy exploring the intersection of technology and human potential, continuously learning, and creating solutions that stand the test of time. Beyond code, I value discipline, curiosity, and the pursuit of excellence.
